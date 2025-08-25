@@ -2,18 +2,13 @@
 
 Hi, I'm Widmar Alberto Gómez Pérez. 
 
-| Rank | Languages | Languages |  Languages |Languages |
+| <a href="https://www.credly.com/badges/d3aadbf1-d1b0-4327-905b-bc00d4ba327f/public_url" title="DevOps Essentials"><img src="https://images.credly.com/size/110x110/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" alt="DevOps Essentials" width="80" height="80">DevOps Essentials</a> | <a href="https://www.credly.com/badges/c2898781-8a9e-47cc-a310-6a0d37463133/public_url" title="Git and GitHub Essentials"><img src="https://images.credly.com/size/110x110/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" alt="Git and GitHub Essentials" width="80" height="80">Git and GitHub Essentials</a> |  |  Languages |Languages |
 |-----:|-----------|-----------|-----------|-----------|
 
 
-<a href="https://www.credly.com/badges/d3aadbf1-d1b0-4327-905b-bc00d4ba327f/public_url" title="DevOps Essentials">
-  
-<img src="https://images.credly.com/size/110x110/images/48847c2a-7b9a-4044-b13d-bb175649904b/image.png" alt="DevOps Essentials" width="80" height="80">DevOps Essentials
+<a href="https://www.credly.com/badges/71601b7d-f2d3-44ef-84b6-1393145ecbf7/public_url" title="Introduction to Cloud Computing"><img src="https://images.credly.com/size/110x110/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png" alt="Introduction to Cloud Computing" width="80" height="80">Introduction to Cloud Computing</a>
 
-</a>
 
-<a href="https://www.credly.com/badges/c2898781-8a9e-47cc-a310-6a0d37463133/public_url" title="Git and GitHub Essentials">
-  
-<img src="https://images.credly.com/size/110x110/images/9a0255eb-a47d-4f3a-9611-243bfe3eb9e4/image.png" alt="Git and GitHub Essentials" width="80" height="80">Git and GitHub Essentials
 
-</a>
+
+<a href="https://www.credly.com/badges/71601b7d-f2d3-44ef-84b6-1393145ecbf7/public_url" title="Introduction to Cloud Computing"><img src="https://images.credly.com/size/110x110/images/a9d0fe89-a11c-4266-8940-9eca7762b294/image.png" alt="Introduction to Cloud Computing" width="80" height="80">Introduction to Cloud Computing</a>
