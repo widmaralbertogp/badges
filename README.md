@@ -1,5 +1,27 @@
+<a name="portfolio"></a>
+## 🌐 Portfolio & Professional Profiles
+
+- 🌐 https://widmaralbertogp.github.io  
+- 🎓 https://www.credly.com/users/widmar-alberto-gomez-perez/badges#credly
+- 🏢 https://learning.sap.com/profile/TU-USUARIO  
+
+<br>
+
+<p align="right">
+<a href="#top">⬆️ Back to Menu</a>
+</p>
+
+---
+
+<br>
+
 <a name="certs"></a>
 ## 📜 Certifications & Credentials
+
+<p align="left">
+  <strong>Click on each badge to access verified credentials and detailed skills on Credly.</strong>
+</p>
+
 
 <p align="center">
 
@@ -20,7 +42,7 @@
 
 <td align="center" width="180">
 
-**Git & GitHub**
+**Git and GitHub Essentials**
 
 ---
 
@@ -32,7 +54,7 @@
 
 <td align="center" width="180">
 
-**Cloud Computing**
+**Introduction to Cloud Computing**
 
 ---
 
@@ -48,7 +70,7 @@
 
 <td align="center">
 
-**HTML, CSS & JavaScript**
+**Introduction to HTML, CSS, & JavaScript**
 
 ---
 
@@ -60,7 +82,7 @@
 
 <td align="center">
 
-**IT Fundamentals**
+**IT Fundamentals for Everyone**
 
 ---
 
@@ -72,7 +94,7 @@
 
 <td align="center">
 
-**Software Engineering**
+**Software Engineering Essentials**
 
 ---
 
@@ -88,37 +110,38 @@
 
 <td align="center">
 
-**Badge 7**
+**JavaScript Programming Essentials**
 
 ---
 
-<a href="TU_LINK_BADGE_7">
-<img src="TU_IMAGEN_BADGE_7" width="90">
+<a href="https://www.credly.com/badges/59907648-b1be-4e93-8f6c-14bafdee622b/public_url">
+<img src="https://images.credly.com/size/110x110/images/899a5963-d3c7-45ee-a16c-4827cf24e836/image.png" width="90">
 </a>
 
 </td>
 
 <td align="center">
 
-**Badge 8**
+**Linux Commands & Shell Scripting Essentials V2**
 
 ---
 
-<a href="TU_LINK_BADGE_8">
-<img src="TU_IMAGEN_BADGE_8" width="90">
+<a href="https://www.credly.com/badges/d5316918-b602-461d-9d30-3285b2ca77af/public_url">
+<img src="https://images.credly.com/size/110x110/images/56774818-e5ff-4dd0-89db-a2a571b0c459/image.png" width="90">
 </a>
 
 </td>
 
 <td align="center">
 
-**Badge 9**
+**Introduction to Agile Development and Scrum**
 
 ---
 
-<a href="TU_LINK_BADGE_9">
-<img src="TU_IMAGEN_BADGE_9" width="90">
+<a href="https://www.credly.com/badges/a39770cc-f64c-4009-873e-98433a92fb63/public_url">
+<img src="https://images.credly.com/size/110x110/images/61733424-430b-4496-bd3c-cb0c7b9dcd67/image.png" width="90">
 </a>
+
 
 </td>
 
@@ -128,16 +151,8 @@
 
 </p>
 
-<br>
-
-<p align="center">
-  <sub>Click on each badge to access verified credentials and detailed skills on Credly.</sub>
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://www.credly.com/users/TU-USUARIO">
-    🔗 View full certification portfolio on Credly
+<p align="left">
+  <a href="https://www.credly.com/users/widmar-alberto-gomez-perez">
+    🔗 View full certification portfolio on Credly.
   </a>
 </p>
