@@ -1,21 +1,3 @@
-<a name="portfolio"></a>
-## 🌐 Portfolio & Professional Profiles
-
-- 🌐 https://widmaralbertogp.github.io  
-- 🎓 https://www.credly.com/users/widmar-alberto-gomez-perez/badges#credly
-- 🏢 https://learning.sap.com/profile/TU-USUARIO  
-
-<br>
-
-<p align="right">
-<a href="#top">⬆️ Back to Menu</a>
-</p>
-
----
-
-<br>
-
-<a name="certs"></a>
 ## 📜 Certifications & Credentials
 
 <p align="left">
